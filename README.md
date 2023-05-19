@@ -7,7 +7,7 @@ Installation
 The source code can be installed with a local clone:
 
 ```bash
-git clone https://github.com/bojunliu0818/graphvampnets.git
+git clone https://github.com/xuhuihuang/graphvampnets.git
 ```
 
 (note that the dependencies should be installed first by two steps)
