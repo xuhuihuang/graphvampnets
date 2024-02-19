@@ -23,7 +23,7 @@ python ./setup.py install
 
 Tutorial
 ---------
-A tutorial can be found [here](https://colab.research.google.com/drive/1gIvTbxYOod7NSTRDUknJyXbPbQH1PZHI#scrollTo=47vDWLZyIS3K). Note that the data may be too large for colab to process, and you can load processed data for training or load pretrained models to play.
+A tutorial can be found [here](https://colab.research.google.com/drive/1dfFfPWFSonaDQBvf6moVDoxxFmBOT_xq?usp=sharing). Note that the data may be too large for colab to process, and you can load processed data for training or load pretrained models to play.
 
 Reference
 ---------
