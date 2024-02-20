@@ -21,6 +21,10 @@ pip install -r ./requirements2.txt
 python ./setup.py install
 ```
 
+Tutorial
+---------
+A tutorial can be found [here](https://colab.research.google.com/drive/1dfFfPWFSonaDQBvf6moVDoxxFmBOT_xq?usp=sharing). Note that the data may be too large for colab to process, and you can load processed data for training or load pretrained models to play.
+
 Reference
 ---------
 Our codebase builds heavily on
